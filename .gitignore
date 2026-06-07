@@ -1,0 +1,14 @@
+# Ignore build output and temporary files
+/target/
+/report/
+*.exec
+*.class
+*.log
+/.idea/
+*.iml
+# IDE files
+.vscode/
+.DS_Store
+
+# Maven wrapper logs
+mvnw*
